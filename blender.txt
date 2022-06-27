@@ -13,10 +13,12 @@ R + (Z,X,Y)           rotate
 Edit -------------------------------
 
 A                     select all
-F                     create a polygon on open geometry, on selected faces -- создать полигон на открытой геометрии, по выделенным граням
+Shift + A             create something
+
 Alt + Z               transparency mode -- режим прозрачности
 
 M                     merge -- соединить
+F                     create a polygon on open geometry, on selected faces -- создать полигон на открытой геометрии, по выделенным граням
 
 
 
