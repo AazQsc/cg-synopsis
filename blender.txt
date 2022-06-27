@@ -1,0 +1,18 @@
+VERY HOT KEY'S
+
+Novigation -------------------------------
+
+G + (Z,X,Y)           move
+S + (Z,X,Y)           resize
+R + (Z,X,Y)           rotate
+
+.                     center on selected object -- центрировать на выделенном объекте
+
+
+Edit -------------------------------
+
+A                     select all
+F                     create a polygon on open geometry, on selected faces -- создать полигон на открытой геометрии, по выделенным граням
+Alt + Z               transparency mode -- режим прозрачности
+
+M                     merge -- соединить
