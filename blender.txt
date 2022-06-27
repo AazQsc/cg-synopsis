@@ -1,3 +1,4 @@
+
 VERY HOT KEY'S
 
 Novigation -------------------------------
@@ -16,3 +17,6 @@ F                     create a polygon on open geometry, on selected faces -- с
 Alt + Z               transparency mode -- режим прозрачности
 
 M                     merge -- соединить
+
+
+
