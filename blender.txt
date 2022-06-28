@@ -1,7 +1,8 @@
 
 VERY HOT KEY'S
 
-Novigation -------------------------------
+________________________________________
+___ NAVIGATION _________________________
 
 G + (Z,X,Y)           move
 S + (Z,X,Y)           resize
@@ -9,15 +10,17 @@ R + (Z,X,Y)           rotate
 RR                    rotate for all directions 
 
 .                     center on selected object -- центрировать на выделенном объекте
+Alt + Z               transparency mode -- режим прозрачности
 
 
-Edit -------------------------------
+________________________________________
+___ EDIT _______________________________
 
 A                     select all
 Shift + A             create something
-E + (Z,X,Y)           extrude
 
-Alt + Z               transparency mode -- режим прозрачности
+E + (Z,X,Y)           extrude
+Shift + R             repeat previous action
 
 M                     merge -- соединить
 Ctrl + A              Scale ? (сужал полигон у куба, чтобы сделать трапецию)
