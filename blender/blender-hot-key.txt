@@ -1,0 +1,24 @@
+------- NAVIGATION
+
+G + (Z,X,Y)           move
+S + (Z,X,Y)           resize
+R + (Z,X,Y)           rotate
+RR                    rotate for all directions 
+ 
+.                     center on selected object -- центрировать на выделенном объекте
+Alt + Z               transparency mode -- режим прозрачности
+
+
+------- EDIT
+
+A                     select all
+Shift + A             create something
+
+E + (Z,X,Y)           extrude
+Shift + R             repeat previous action
+
+M                     merge -- соединить
+Ctrl + A              Scale ? (сужал полигон у куба, чтобы сделать трапецию)
+F                     create a polygon on open geometry, on selected faces -- создать полигон на открытой геометрии, по выделенным граням
+
+
