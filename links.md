@@ -8,4 +8,6 @@
 # PROCEDURAL PROGRAMMING
 <br>[The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 <br>[Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
+# BLENDER
+<br>[Симуляции - настройки Domain тип Gas](https://dmitryproskurin.notion.site/Domain-Gas-56318d88e0c74de79933a49cfdb70aa5)
 
