@@ -3,6 +3,7 @@
 - **Shaders:** Shaders are scripts that contain mathematical calculations and algorithms that allow determining the rendering of each object according to the lighting and the properties assigned to the equipment.  It is the shaders that determine the properties of materials.  
 - **Texture:** Textures are bitmaps used by materials to give 3D objects their “graphic” appearance. Certain other types of textures (examples: normal map, height map, etc.) can also be used to determine other material properties (relief, reflectivity, roughness, etc. 
 
+<br>[Create realistic texturing by Blender Guru](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 <br>[The Book of Shaders](https://thebookofshaders.com/)
 <br>[Poly Haven - materials data](https://polyhaven.com/)
 # PROCEDURAL PROGRAMMING
