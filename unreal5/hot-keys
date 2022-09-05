@@ -9,4 +9,6 @@ G                     game view
 OBJECT MANIPULATION
 
 ctrl + D              duplicate object
-
+alt + drag            duplicate object
+shift + drag          lock camera while moving obj
+end                   snap to floor
