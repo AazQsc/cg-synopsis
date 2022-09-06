@@ -7,8 +7,25 @@
 
 
 # My notes
-
+--- 
 Also we may use 3 other map type (usualy for create low poly obj):
-<br> 1) Normal map — карту неровностей
-<br> 2) Ambient Occlusion (AO) — карту затенения
-<br> 3) Color ID — цветные маски
+<br>
+<br> 1) Normal map — bump map, changes specular direction on geometry, creates virtual normal vertex
+> Use RGB channel:
+> - red - distortion of vertex normals horizontally
+> - green - distorts shading vertically
+> - blue - simulates depressions in an object
+
+<br> 2) Ambient Occlusion (AO) — shading map
+
+> Use black and white channel
+
+<br> 3) Color ID — colored masks
+
+---
+Other maps:
+- Position map
+- Сurvature map
+- Thickness map
+
+
