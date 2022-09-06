@@ -12,6 +12,9 @@
 <br>[poliigon.com](https://www.poliigon.com/)
 <br>[quixel.com](https://quixel.com/megascans/home)
 
+## My Materials
+[Unreal 5](https://github.com/AazQsc/cg-synopsis/tree/main/unreal5/materials)
+
 # PROCEDURAL PROGRAMMING
 [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 <br>[Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
