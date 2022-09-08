@@ -7,6 +7,21 @@ POINT
 - Light > Light Color
 - Light > Indirect Lightning Intensity (reflected light)
 
+SPOT
+- Light > Inner Cone Angle
+- Light > Outer Cone Angle
 
+RECT
+- Light > Barn Door Angle
+- Light > Barn Door Length
 
+DIRECTIONAL (solar light)
+- Light > Source Angle (affects the softness of the shadows)
+
+SKY
+Captures the position of the sky and projects light from it onto our world.
+For add sky 
+1) click add -> Visual Effects -> Sky Atmosphere
+2) click add -> Light -> Directional Light
+3) refresh Sky Light -> Affects World (turn off/on)
 
