@@ -25,3 +25,9 @@ For add sky
 2) click add -> Light -> Directional Light
 3) refresh Sky Light -> Affects World (turn off/on)
 
+--------------------------------------------------------------------
+
+LUMEN (PostProcessVolume)
+Post Process Volume Settings -> Infinity Extent 'turn on'
+Global Illumination -> Method 'Lumen'
+Lumen Global Illumination -> Final Gather Quality (the more the less noise, affects performance)
