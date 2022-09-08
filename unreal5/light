@@ -35,5 +35,15 @@ Lumen Global Illumination -> Final Gather Quality (the more the less noise, affe
 Lumen Global Illumination -> Lumen Scene Detail (the more the finer details have shadows)
 
 
+--------------------------------------------------------------------
+NOTES 
+
+- Lightmass Settings: Static Lighting Level Scale * Indirect Lighting Quality = 1
+
+- If the textures are low resolution, then the light on them will bake badly.
+  Check it -> Optimization Viewmodes -> Lightmap Density -> click to textures -> Details -> Lighting -> Lightmass Settings -> Overriden Light Map Res  
+
+
+
 
 
