@@ -29,5 +29,11 @@ For add sky
 
 LUMEN (PostProcessVolume)
 Post Process Volume Settings -> Infinity Extent 'turn on'
+Exposure -> Metering Mode -> Manual + Exposure Compensation 13.25 (the more the more blur)
 Global Illumination -> Method 'Lumen'
 Lumen Global Illumination -> Final Gather Quality (the more the less noise, affects performance)
+Lumen Global Illumination -> Lumen Scene Detail (the more the finer details have shadows)
+
+
+
+
