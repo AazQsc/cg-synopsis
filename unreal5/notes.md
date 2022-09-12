@@ -12,6 +12,10 @@ For create light for landscape add:
 4) Exponential HeightFog
 
 ---
+For create Landscape:
+1) Landscape mode -> Create New 
+
+---
 ## Naming
 
 <br>M_      materials
