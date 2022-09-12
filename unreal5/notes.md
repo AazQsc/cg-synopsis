@@ -14,6 +14,12 @@ For create light for landscape add:
 ---
 For create Landscape:
 1) Landscape mode -> Create New 
+2) add cube
+3) add character
+4) add PostProcessVolume
+5) PostProcessVolume -> Exposure Mode : Manual
+6) PostProcessVolume -> Infinity Extent : true
+7) PostProcessVolume -> Exposure Compensation : 10.5
 
 ---
 ## Naming
