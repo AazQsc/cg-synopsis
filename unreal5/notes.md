@@ -20,6 +20,7 @@ For create Landscape:
 5) PostProcessVolume -> Exposure Mode : Manual
 6) PostProcessVolume -> Infinity Extent : true
 7) PostProcessVolume -> Exposure Compensation : 10.5
+8) add Volumetric Cloud
 
 ---
 ## Naming
