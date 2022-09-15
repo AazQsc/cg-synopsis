@@ -9,6 +9,9 @@ foliage.ForceLOD 0 --> enable  LOD (detalisation)
 <br>foliage.ForceLOD -1 ->  disable LOD
 
 ---
+r.Streaming.PoolSize -> resize streaming pool
+
+---
 For create light for landscape add:
 1) Direction Light
 2) Sky Atmosphere
