@@ -5,6 +5,10 @@ Use **PostProcessVolume** for changing global world parameters.
 Use **Material Instance** for parametrise you materials.
 
 ---
+foliage.ForceLOD 0 --> enable  LOD (detalisation)
+<br>foliage.ForceLOD -1 ->  disable LOD
+
+---
 For create light for landscape add:
 1) Direction Light
 2) Sky Atmosphere
