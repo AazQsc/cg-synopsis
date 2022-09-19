@@ -30,6 +30,14 @@ For create Landscape:
 8) add Volumetric Cloud
 
 ---
+Cinematic:
+1) add cine camera actor
+2) add level sequence
+3) add camera to sequence
+4) add transform keyframe to sequence from camera
+5) 
+
+---
 ## Naming
 
 <br>M_      materials
