@@ -24,6 +24,7 @@
 # RENDER
 [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
 <br>[UE5 Render mp4 format by Pamir Garaj](https://www.youtube.com/watch?v=IxMQCFJ9ZoE)
+<br>[Using ffmpeg to convert a set of images into a video](https://hamelot.io/visualization/using-ffmpeg-to-convert-a-set-of-images-into-a-video/)
 
 ---
 # PROCEDURAL PROGRAMMING
