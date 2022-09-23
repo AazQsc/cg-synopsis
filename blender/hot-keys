@@ -6,6 +6,7 @@ R + (Z,X,Y)           rotate
 RR                    rotate for all directions 
  
 .                     center on selected object -- центрировать на выделенном объекте
+Shift + s             3d cursor options
 Alt + Z               transparency mode -- режим прозрачности
 
 
