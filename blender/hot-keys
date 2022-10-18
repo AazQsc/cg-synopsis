@@ -17,7 +17,8 @@ A                     select all
 Shift + A             create something
 Shift + R             repeat previous action
 
-E + (Z,X,Y)           extrude
+E + (Z,X,Y)           extrude inner
+E + S                 extrude outer
 I                     inset faces
 F                     create a polygon on open geometry, on selected faces -- создать полигон на открытой геометрии, по выделенным граням
 
