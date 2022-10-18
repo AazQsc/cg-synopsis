@@ -23,6 +23,9 @@ F                     create a polygon on open geometry, on selected faces -- с
 M                     merge -- соединить
 
 Ctrl + R              add a cut section of points
-Ctrl + Shift + B      split a point in two point
+Ctrl + Shift + B      split a point
+
+
+
 
 
