@@ -1,6 +1,9 @@
 1. Cut with a knife and fill geometry (like F)
 -> knife-bisect + fill + clear inner/outer (F - change knife direction)
 
+2. Triangulate faces
+-> up menu 'face' + triangulate faces (Ctrl + T)
+
 
 
 
