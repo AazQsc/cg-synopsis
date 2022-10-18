@@ -15,14 +15,13 @@ num -> '/'            local view
 
 A                     select all
 Shift + A             create something
-
-E + (Z,X,Y)           extrude
 Shift + R             repeat previous action
 
-
+E + (Z,X,Y)           extrude
+I                     inset faces
 F                     create a polygon on open geometry, on selected faces -- создать полигон на открытой геометрии, по выделенным граням
-M                     merge -- соединить
 
+M                     merge -- соединить
 Ctrl + R              add a cut section of points
 Ctrl + Shift + B      split a point
 
