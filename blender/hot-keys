@@ -9,11 +9,17 @@ RR                    rotate for all directions
 Shift + s             3d cursor options
 Alt + Z               transparency mode -- режим прозрачности
 num -> '/'            local view
+
+
+------- SELECT
+
+A                     select all
+alt + click           select around slice
+L                     select object by point
   
 
 ------- EDIT
 
-A                     select all
 Shift + A             create something
 Shift + R             repeat previous action
 
