@@ -1,5 +1,30 @@
+INPUT
+-> Texture coordinate         start node, select 'object' if you want add texture to you object
+
+
+TEXTURE
+-> Image texture              if you want upload image as texture 
+-> Noise texture              if you want upload noise as texture (use fac for procedural)
+
+
 COLOR
 -> RGB Curves                 if you want to get more or less saturation of color
+-> Mix RGB                    merge two RGB channel
+
+
+VECTOR
+-> Bump                       depth through normal changeы
+
+
+CONVERTER
+-> Color Ramp                 overall gradient control (like example use 'Noise texture' + 'Color Ramp')
+
+
+______________
+N O T E S
+
+Ctrl + T                       add 'Texture coordinate' and 'Mapping' nodes
+
 
 
 
