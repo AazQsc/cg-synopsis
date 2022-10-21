@@ -28,4 +28,12 @@ Other maps:
 - Сurvature map
 - Thickness map
 
+---
+EXAMPLE 1
+
+![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/example1.jpg)
+
+
+
+
 
