@@ -25,6 +25,28 @@
 -> add-ons (add curve - sapling tree gen)
 -> Shift + A (curve - sapling tree gen)
 
+7. Using Alpha channel
+-> Material properties (settings)
+-> blend mode - alpha blend 
+-> use alpha channel on nodes
+
+8. scattering
+-> add particle (hair) 
+-> render - select instance object 
+-> add new vertex groupe to object
+-> go to weight paint mode 
+-> add vertex group to particle system
+
+
+
+
+
+
+
+
+
+
+
 
 
 
