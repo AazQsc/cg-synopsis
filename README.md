@@ -35,5 +35,13 @@
 - [Unreal notes](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
 - [Blender notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 
+# OTHER 
+- [Big Blender comunity](https://www.blendernation.com/)
+- [Free Models for blender](https://www.blendswap.com/)
+- [Free 3d and Blender content](https://juliosillet.gumroad.com/)
+- [Blendermarket](https://blendermarket.com/)
+
+
+
 
 
