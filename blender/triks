@@ -38,11 +38,14 @@
 -> add vertex group to particle system
 
 9. Run difference boolean operation
--> addOn Bool Tool enablen
+-> addOn Bool Tool enablen (?)
 -> Ctrl + 'Num-'
 
-------------
+10. Connect two parralel faces (hole)
 -> addOn Loop Tools enablen
+-> select faces
+-> right click (Loop Tools)
+-> Loop Tools (bridge)
 
 
 
