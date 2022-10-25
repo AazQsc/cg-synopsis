@@ -16,6 +16,7 @@ num -> '/'            local view
 A                     select all
 alt + click           select around slice
 L                     select object by point
+Shift + S             3D cursor menu
   
 
 ------- EDIT
