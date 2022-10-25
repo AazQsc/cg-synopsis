@@ -37,6 +37,11 @@
 -> go to weight paint mode 
 -> add vertex group to particle system
 
+9. Run difference boolean operation
+-> addOn Bool Tool enablen
+-> addOn Loop Tools enablen
+-> Ctrl + 'Num-'
+
 
 
 
