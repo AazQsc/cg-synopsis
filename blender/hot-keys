@@ -29,6 +29,7 @@ E + S                 extrude outer
 I                     inset faces
 F                     create a polygon on open geometry, on selected faces -- создать полигон на открытой геометрии, по выделенным граням
 V                     split geometry by selected edge
+J                     split geometry (face) between some vertex (points)
 
 M                     merge -- соединить
 Ctrl + R              add a cut section of points (scroll if you wan't more part's)
