@@ -50,6 +50,10 @@
 11. Bind parameter to frame
 -> #frame/35 
 
+12. UV mapping
+-> U + 'Mark seam'
+-> add test image texture and use Ctrl + L (link materials) for check result
+
 
 
 
