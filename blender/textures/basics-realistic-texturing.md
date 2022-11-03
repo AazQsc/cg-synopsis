@@ -39,6 +39,10 @@ EXAMPLE 2
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/example2.jpg)
 
+---
+EXAMPLE 3
+![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/example3.jpg)
+
 
 
 
