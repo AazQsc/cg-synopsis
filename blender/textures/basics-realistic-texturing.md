@@ -35,6 +35,7 @@ EXAMPLE 1
 
 ---
 EXAMPLE 2
+(go to texture drawing and use the same color)
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/example2.jpg)
 
