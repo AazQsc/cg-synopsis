@@ -54,7 +54,9 @@
 -> U + 'Mark seam'
 -> add test image texture and use Ctrl + L (link materials) for check result
 
-
+13. enable while render eve
+-> Bloom 
+-> Ambient Occlusion
 
 
 
