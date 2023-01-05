@@ -1,3 +1,13 @@
+<br>
+<br>
+
+### [ART STATION](https://www.artstation.com/nalegke)
+
+<br>
+<br>
+<br>
+<br>
+
 # MATERIALS, SHADERS AND TEXTURES
 - [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
@@ -8,9 +18,10 @@
 - [textures.com](https://www.textures.com/)
 - [poliigon.com](https://www.poliigon.com/)
 - [quixel.com](https://quixel.com/megascans/home)
+- [Julio Sillet textures](https://juliosillet.gumroad.com/)
 
 # LIGHT
-- [Unreal 5](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
+- [Unreal 5 light conspect](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
 
 # RENDER AND COMPILE
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
@@ -25,9 +36,6 @@
 - [City Map Generator Online](https://maps.probabletrain.com/#/)
 - [UE5 Starter Course 2022 by Unreal Sensei](https://youtu.be/k-zMkzmduqI)
 
-# SIMULATION
-- [Симуляции - настройки Domain тип Gas](https://dmitryproskurin.notion.site/Domain-Gas-56318d88e0c74de79933a49cfdb70aa5)
-
 # MY HOT KEY'S AND NOTES 
 - [My blender hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [My Unreal hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/hot-keys)
@@ -35,9 +43,6 @@
 - [Blender notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 
 # OTHER 
-- [Big Blender comunity](https://www.blendernation.com/)
-- [Free Models for blender](https://www.blendswap.com/)
-- [Free 3d and Blender content](https://juliosillet.gumroad.com/)
 - [Blendermarket](https://blendermarket.com/)
 
 
