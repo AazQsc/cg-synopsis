@@ -1,6 +1,5 @@
 # MATERIALS, SHADERS AND TEXTURES
 - [Create realistic texturing by Blender Guru](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
-- [Blender nodes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/nodes)
 - [The Book of Shaders](https://thebookofshaders.com/)
 - [Tutorial: Dirty Glass Effect in Marmoset Toolbag 3](https://80.lv/articles/tutorial-dirty-glass-effect-in-marmoset-toolbag-3/)
 - [Poly Haven - materials data](https://polyhaven.com/)
