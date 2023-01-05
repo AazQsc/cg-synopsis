@@ -6,14 +6,12 @@
 - [textures.com](https://www.textures.com/)
 - [poliigon.com](https://www.poliigon.com/)
 - [quixel.com](https://quixel.com/megascans/home)
-- [My Materials by Unreal 5](https://github.com/AazQsc/cg-synopsis/tree/main/unreal5/materials)
 
 # LIGHT
 - [Unreal 5](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
 
-# RENDER
+# RENDER AND COMPILE
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
-- [UE5 Render mp4 format by Pamir Garaj](https://www.youtube.com/watch?v=IxMQCFJ9ZoE)
 - [Using ffmpeg to convert a set of images into a video](https://hamelot.io/visualization/using-ffmpeg-to-convert-a-set-of-images-into-a-video/)
 
 # PROCEDURAL PROGRAMMING
