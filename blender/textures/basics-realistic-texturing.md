@@ -20,14 +20,6 @@ Also we may use 3 other map type (usualy for create low poly obj):
 
 > Use black and white channel
 
-<br> 3) Color ID — colored masks
-
----
-Other maps:
-- Position map
-- Сurvature map
-- Thickness map
-
 ---
 EXAMPLE 1
 
