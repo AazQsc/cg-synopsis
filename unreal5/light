@@ -27,7 +27,9 @@ For add sky
 
 --------------------------------------------------------------------
 
-LUMEN (PostProcessVolume)
+How to enable LUMEN light:
+
+In PostProcessVolume -->
 Post Process Volume Settings -> Infinity Extent 'turn on'
 Exposure -> Metering Mode -> Manual + Exposure Compensation 13.25 (the more the more blur)
 Global Illumination -> Method 'Lumen'
