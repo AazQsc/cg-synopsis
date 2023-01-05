@@ -2,7 +2,7 @@
 - [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
 
-## Sites with 
+<br>
 - [Poly Haven - materials data](https://polyhaven.com/)
 - [textures.com](https://www.textures.com/)
 - [poliigon.com](https://www.poliigon.com/)
