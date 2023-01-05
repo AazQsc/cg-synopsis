@@ -1,7 +1,8 @@
 # MATERIALS, SHADERS AND TEXTURES
-- [Texturing in Blender with examoles](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
-- [The Book of Shaders](https://thebookofshaders.com/)
-- [Tutorial: Dirty Glass Effect in Marmoset Toolbag 3](https://80.lv/articles/tutorial-dirty-glass-effect-in-marmoset-toolbag-3/)
+- [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
+- [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
+
+## Sites with 
 - [Poly Haven - materials data](https://polyhaven.com/)
 - [textures.com](https://www.textures.com/)
 - [poliigon.com](https://www.poliigon.com/)
