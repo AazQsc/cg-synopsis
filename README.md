@@ -30,6 +30,7 @@
 # PROCEDURAL PROGRAMMING
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 - [Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
+- [Blender nodes note](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/nodes.md)
 
 # ENVIRONMENT
 - [Maps Models Importer by Elie Michel](https://github.com/eliemichel/MapsModelsImporter)
