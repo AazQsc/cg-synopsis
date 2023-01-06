@@ -7,19 +7,21 @@
 
 # My notes
 ---
-EXAMPLE 1 
 <br>
+EXAMPLE 1 
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/example1.jpg)
 
----
+
+<br>
 EXAMPLE 2
 <br> (go to texture drawing and use the same color)
 <br>
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/example2.jpg)
 
----
+
+<br>
 EXAMPLE 3
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/example3.jpg)
