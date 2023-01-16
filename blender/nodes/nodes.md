@@ -1,18 +1,28 @@
-<br>
-Instance on faces
+<br>Realize Instances
+<br>Endpoint Selection
+<br>Store Named Attribute + Named Attribute
+
+![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/selection_and_realize.png)
+
+
+
+<br>Instance on faces
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/instance_to_faces.png)
 
 
-<br>
-Color around area
+
+<br>Color around area
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/set_material_to_area.png)
 
 
-<br>
-XYZ cub creation
+
+<br>Instance on points + Instance on points
+<br>Resample Curve
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/XYZ_cub_creation.png)
+
+
 
 
