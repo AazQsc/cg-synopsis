@@ -12,6 +12,12 @@
 
 
 
+<br>Delete geometry by index
+
+![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/delete_by_index.png)
+
+
+
 <br>Color around area
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/set_material_to_area.png)
