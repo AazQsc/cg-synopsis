@@ -18,6 +18,12 @@
 
 
 
+<br>Swap geometry by index
+
+![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/swap_geometry_by_index.png)
+
+
+
 <br>Color around area
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/set_material_to_area.png)
