@@ -20,7 +20,7 @@
 
 <br>Swap geometry by index
 
-![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/swap_geometry_by_index.png)
+![](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/swap_geometry_by_index2.png)
 
 
 
