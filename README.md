@@ -8,20 +8,18 @@
 <br>
 <br>
 
+# MY HOT KEY'S AND NOTES 
+- [My blender hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
+- [My Unreal hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/hot-keys)
+- [Unreal notes](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
+- [Blender notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
+
 # MATERIALS, SHADERS AND TEXTURES
 - [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 
 <br>
 
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
-
-<br>
-
-- [Poly Haven - materials data](https://polyhaven.com/)
-- [textures.com](https://www.textures.com/)
-- [poliigon.com](https://www.poliigon.com/)
-- [quixel.com - link is work, I really don't know why 403 is happened](https://quixel.com/megascans/home)
-- [Julio Sillet textures](https://juliosillet.gumroad.com/)
 
 # LIGHT
 - [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
@@ -42,14 +40,16 @@
 - [City Map Generator Online](https://maps.probabletrain.com/#/)
 - [UE5 Starter Course 2022 by Unreal Sensei](https://youtu.be/k-zMkzmduqI)
 
-# MY HOT KEY'S AND NOTES 
-- [My blender hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
-- [My Unreal hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/hot-keys)
-- [Unreal notes](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
-- [Blender notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
-
-# OTHER 
+# GET 3D-MODELS AND TEXTURES HERE
 - [Blendermarket](https://blendermarket.com/)
+
+<br>
+
+- [Poly Haven - materials data](https://polyhaven.com/)
+- [textures.com](https://www.textures.com/)
+- [poliigon.com](https://www.poliigon.com/)
+- [quixel.com - link is work, I really don't know why 403 is happened](https://quixel.com/megascans/home)
+- [Julio Sillet textures](https://juliosillet.gumroad.com/)
 
 
 
