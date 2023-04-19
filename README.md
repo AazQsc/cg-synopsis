@@ -10,6 +10,9 @@
 
 # MATERIALS, SHADERS AND TEXTURES
 - [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
+
+<br>
+
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
 
 <br>
