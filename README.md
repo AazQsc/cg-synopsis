@@ -20,7 +20,7 @@
 - [Poly Haven - materials data](https://polyhaven.com/)
 - [textures.com](https://www.textures.com/)
 - [poliigon.com](https://www.poliigon.com/)
-- [quixel.com](https://quixel.com/megascans/home)
+- [quixel.com](https://quixel.com/megascans)
 - [Julio Sillet textures](https://juliosillet.gumroad.com/)
 
 # LIGHT
