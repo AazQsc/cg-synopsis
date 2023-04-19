@@ -24,6 +24,7 @@
 - [Julio Sillet textures](https://juliosillet.gumroad.com/)
 
 # LIGHT
+- [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
 - [Unreal 5 light conspect](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
 
 # RENDER AND COMPILE
