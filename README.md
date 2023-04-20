@@ -1,5 +1,5 @@
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender.jpg)
-- [Hot key's and tool controls (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
+- [Hot key's and Tools controls (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [How to fix it? (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/noteshowtofixit)
 - [Tips (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 ##### GEOMETRY NODES
