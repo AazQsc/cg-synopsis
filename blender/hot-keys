@@ -1,4 +1,4 @@
-------- NAVIGATION
+------- NAVIGATION ------- 
 
 G + (Z,X,Y)           move
 S + (Z,X,Y)           resize
@@ -11,7 +11,7 @@ Alt + Z               transparency mode -- режим прозрачности
 num -> '/'            local view
 
 
-------- SELECT
+------- SELECT ------- 
 
 A                     select all
 alt + click           select around slice
@@ -22,7 +22,7 @@ H                     hide selected
 Alt + H               unhide selected
   
 
-------- EDIT
+------- EDIT ------- 
 
 Shift + A             create something
 Shift + R             repeat previous action
@@ -44,14 +44,12 @@ Ctrl + B              bevel (use C if owerlaps)
 Ctrl + Shift + B      split a point
 Ctrl + 'Num-'         boolean operation (addOn Bool Tool enablen (?))
 
-
-------- UV
+------- OTHER ------- 
 
 Ctrl + T              Triangulate faces
 
 
-
-BLENDER TOOLS TIPS
+------- BLENDER TOOLS TIPS ------- 
 knife-bisect + fill + clear inner/outer (F - change knife direction)
 
 
