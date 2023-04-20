@@ -21,9 +21,11 @@
 - [UE5 Starter Course 2022 by Unreal Sensei](https://youtu.be/k-zMkzmduqI)
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
 
+<br>
+<br>
+<br>
 
-
-# 3D THEORY
+![](https://github.com/AazQsc/cg-synopsis/blob/main/theory.jpg)
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
 - [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
