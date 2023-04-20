@@ -3,10 +3,10 @@
 ### [>>> ART STATION <<<](https://www.artstation.com/nalegke)
 
 <br>
+<br>
+<br>
 
-
-
-# BLENDER
+![](https://github.com/AazQsc/cg-synopsis/blob/main/blender.jpg)
 - [My blender hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [Blender notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 ##### GEOMETRY NODES
@@ -15,9 +15,11 @@
 ##### TEXTURING
 - [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 
+<br>
+<br>
+<br>
 
-
-# FFMPEG
+![](https://github.com/AazQsc/cg-synopsis/blob/main/FFmpeg.png) 
 - [Using ffmpeg to convert a set of images into a video](https://hamelot.io/visualization/using-ffmpeg-to-convert-a-set-of-images-into-a-video/)
 
 
