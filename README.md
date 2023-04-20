@@ -1,11 +1,3 @@
-<br>
-
-### [>>> ART STATION <<<](https://www.artstation.com/nalegke)
-
-<br>
-<br>
-<br>
-
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender.jpg)
 - [My blender hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [Blender notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
@@ -22,9 +14,11 @@
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/FFmpeg.png) 
 - [Using ffmpeg to convert a set of images into a video](https://hamelot.io/visualization/using-ffmpeg-to-convert-a-set-of-images-into-a-video/)
 
+<br>
+<br>
+<br>
 
-
-# UNREAL ENGINE
+![](https://github.com/AazQsc/cg-synopsis/blob/main/unreal.jpg)
 - [My Unreal hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/hot-keys)
 - [Unreal notes](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
 - [Unreal 5 light conspect](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
@@ -59,3 +53,7 @@
 - [Julio Sillet textures](https://juliosillet.gumroad.com/)
 
 
+<br>
+
+![](https://github.com/AazQsc/cg-synopsis/blob/main/artstation.jpg)
+### [TAP ON THE LINK !](https://www.artstation.com/nalegke)
