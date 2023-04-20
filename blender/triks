@@ -1,65 +1,31 @@
-1. Cut with a knife and fill geometry (like F)
--> knife-bisect + fill + clear inner/outer (F - change knife direction)
 
-2. Triangulate faces
--> up menu 'face' 
--> triangulate faces (Ctrl + T)
+Bind parameter to frame
+-> #frame/35 
 
-3. Create a new object by exist geometry
--> select target geometry 
--> shift + D + right click
--> P + selection
 
-4. Fix for 'scale'
--> Ctrl + A 
--> scale
+Enable while render eve
+-> Bloom 
+-> Ambient Occlusion
 
-5. Fix faces orientation 
--> Edit mode
--> Alt + N
--> recalculate outside
 
-6. Add a tree
+Add a tree
 -> edit
 -> preferences
 -> add-ons (add curve - sapling tree gen)
 -> Shift + A (curve - sapling tree gen)
 
-7. Using Alpha channel
+
+Using Alpha channel
 -> Material properties (settings)
 -> blend mode - alpha blend 
 -> use alpha channel on nodes
 
-8. scattering
+
+Scattering
 -> add particle (hair) 
--> render - select instance object 
 -> add new vertex groupe to object
 -> go to weight paint mode 
 -> add vertex group to particle system
-
-9. Run difference boolean operation
--> addOn Bool Tool enablen (?)
--> Ctrl + 'Num-'
-
-10. Connect two parralel faces (hole)
--> addOn Loop Tools enablen
--> select faces
--> right click (Loop Tools)
--> Loop Tools (bridge)
-
-11. Bind parameter to frame
--> #frame/35 
-
-12. UV mapping
--> U + 'Mark seam'
--> add test image texture and use Ctrl + L (link materials) for check result
-
-13. enable while render eve
--> Bloom 
--> Ambient Occlusion
-
-
-
 
 
 
