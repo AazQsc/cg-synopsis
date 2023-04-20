@@ -1,4 +1,4 @@
-NAVIGATION
+------ NAVIGATION
 
 ctrl + space          content drawer
 F10                   full screen
@@ -9,7 +9,7 @@ ctrl + B              place of the object on project structure
 
 
 
-OBJECT MANIPULATION
+------ OBJECT MANIPULATION
 
 ctrl + D              duplicate object
 alt + drag            duplicate object
@@ -18,7 +18,7 @@ end                   snap to floor
 
 
 
-OTHER
+------- OTHER
 
 Ctrl + L              Rotate Sun
 
