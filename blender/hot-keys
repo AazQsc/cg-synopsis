@@ -24,6 +24,8 @@ Shift + S             3D cursor menu
 Shift + A             create something
 Shift + R             repeat previous action
 
+GG                    move by edges
+
 E + (Z,X,Y)           extrude inner
 E + S                 extrude outer
 I                     inset faces
