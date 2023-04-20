@@ -36,9 +36,11 @@
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 - [Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
 
+<br>
+<br>
+<br>
 
-
-# TOOLS
+![](https://github.com/AazQsc/cg-synopsis/blob/main/tools.jpg)
 - [Maps Models Importer by Elie Michel](https://github.com/eliemichel/MapsModelsImporter)
 - [City Map Generator Online](https://maps.probabletrain.com/#/)
 
