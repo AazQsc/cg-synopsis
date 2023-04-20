@@ -39,6 +39,8 @@ Ctrl + B              bevel (use C if owerlaps)
 Ctrl + Shift + B      split a point
 Ctrl + 'Num-'         boolean operation (addOn Bool Tool enablen (?))
 
+BLENDER TOOLS TIPS
+knife-bisect + fill + clear inner/outer (F - change knife direction)
 
 
 
