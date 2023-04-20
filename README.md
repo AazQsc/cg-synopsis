@@ -1,9 +1,9 @@
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender.jpg)
-- [My blender hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
-- [Blender notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
+- [Hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
+- [Notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 ##### GEOMETRY NODES
-- [Blender. Geometry nodes. Note](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/nodes.md)
-- [Blender. Geometry nodes. How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
+- [Notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/nodes.md)
+- [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
 ##### TEXTURING
 - [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 
@@ -19,9 +19,9 @@
 <br>
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/unreal.jpg)
-- [My Unreal hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/hot-keys)
-- [Unreal notes](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
-- [Unreal 5 light conspect](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
+- [Hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/hot-keys)
+- [Notes](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
+- [Light conspect](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
 
 <br>
 
