@@ -54,7 +54,8 @@
 - [quixel.com - link is work, I really don't know why 403 is happened](https://quixel.com/megascans/home)
 - [Julio Sillet textures](https://juliosillet.gumroad.com/)
 
-
+<br>
+<br>
 <br>
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/artstation.jpg)
