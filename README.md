@@ -9,22 +9,24 @@
 <br>
 
 # MY HOT KEY'S AND NOTES 
-- [My blender hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [My Unreal hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/hot-keys)
 - [Unreal notes](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
 - [Blender notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
-
-# MATERIALS, SHADERS AND TEXTURES
-- [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
-
-<br>
-
-- [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
-
-# LIGHT
-- [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
 - [Unreal 5 light conspect](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
 
+# BLENDER
+- [My blender hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
+#### GEOMETRY NODES
+- [Blender. Geometry nodes. Note](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/nodes.md)
+- [Blender. Geometry nodes. How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
+#### TEXTURING
+- [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
+
+# INFO
+- [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
+- [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
+
+# LIGHT
 # RENDER AND COMPILE
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
 - [Using ffmpeg to convert a set of images into a video](https://hamelot.io/visualization/using-ffmpeg-to-convert-a-set-of-images-into-a-video/)
@@ -32,8 +34,6 @@
 # PROCEDURAL PROGRAMMING
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 - [Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
-- [Blender. Geometry nodes. Note](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/nodes.md)
-- [Blender. Geometry nodes. How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
 
 # ENVIRONMENT
 - [Maps Models Importer by Elie Michel](https://github.com/eliemichel/MapsModelsImporter)
