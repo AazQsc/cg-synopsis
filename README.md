@@ -14,7 +14,7 @@
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/unreal.jpg)
 - [Hot key's (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/hot-keys)
-- [Notes](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
+- [Tips (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/notes.md)
 - [Light conspect](https://github.com/AazQsc/cg-synopsis/blob/main/unreal5/light)
 
 <br>
