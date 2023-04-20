@@ -59,4 +59,4 @@
 <br>
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/artstation.jpg)
-### [TAP ON THE LINK !](https://www.artstation.com/nalegke)
+### [TAP THE LINK !](https://www.artstation.com/nalegke)
