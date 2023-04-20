@@ -6,7 +6,7 @@ R + (Z,X,Y)           rotate
 RR                    rotate for all directions 
  
 .                     center on selected object -- центрировать на выделенном объекте
-Shift + s             3d cursor options
+Shift + S             3d cursor options
 Alt + Z               transparency mode -- режим прозрачности
 num -> '/'            local view
 
@@ -17,12 +17,16 @@ A                     select all
 alt + click           select around slice
 L                     select object by point
 Shift + S             3D cursor menu
+
+H                     hide selected
+Alt + H               unhide selected
   
 
 ------- EDIT
 
 Shift + A             create something
 Shift + R             repeat previous action
+shift + D             duplicate geometry
 
 GG                    move by edges
 
@@ -33,14 +37,29 @@ F                     create a polygon on open geometry, on selected faces -- с
 V                     split geometry by selected edge
 J                     split geometry (face) between some vertex (points)
 
+p                     separate by
 M                     merge -- соединить
 Ctrl + R              add a cut section of points (scroll if you wan't more part's)
 Ctrl + B              bevel (use C if owerlaps)
 Ctrl + Shift + B      split a point
 Ctrl + 'Num-'         boolean operation (addOn Bool Tool enablen (?))
 
+
+------- UV
+
+Ctrl + T              Triangulate faces
+
+
+
 BLENDER TOOLS TIPS
 knife-bisect + fill + clear inner/outer (F - change knife direction)
+
+
+
+
+
+
+
 
 
 
