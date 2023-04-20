@@ -1,7 +1,7 @@
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender.jpg)
-- [Hot key's (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
+- [Hot key's and tool controls (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [How to fix it? (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/noteshowtofixit)
-- [Tips](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
+- [Tips (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 ##### GEOMETRY NODES
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/Examples.md)
 - [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
