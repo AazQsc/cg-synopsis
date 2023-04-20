@@ -2,7 +2,7 @@
 - [Hot key's](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [Notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 ##### GEOMETRY NODES
-- [Notes](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/nodes.md)
+- [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/Examples.md)
 - [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
 ##### TEXTURING
 - [Texturing in Blender with examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
