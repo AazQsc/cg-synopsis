@@ -42,9 +42,11 @@
 - [Maps Models Importer by Elie Michel](https://github.com/eliemichel/MapsModelsImporter)
 - [City Map Generator Online](https://maps.probabletrain.com/#/)
 
+<br>
+<br>
+<br>
 
-
-# 3D PLACES
+![](https://github.com/AazQsc/cg-synopsis/blob/main/3dplaces.jpg)
 - [Blendermarket](https://blendermarket.com/)
 - [Poly Haven - materials data](https://polyhaven.com/)
 - [textures.com](https://www.textures.com/)
