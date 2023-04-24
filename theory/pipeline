@@ -1,0 +1,14 @@
+1. Hight poly model
+ 
+2. Low poly model (and mb Retopology?)
+ 
+3. UV mapping
+ - Mark Sharp edges (now in blender, learn RizomUV)
+ - Mark Seam edges (now in blender, learn RizomUV)
+ - Move to RizomUV - use RizomUV Bridge Export (addon for blender)
+ - add padding
+ - repacking
+ - Move to Blender - use RizomUV Bridge Import (addon for blender)
+ 
+ 4. Bake
+  - 
