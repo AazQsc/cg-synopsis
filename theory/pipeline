@@ -1,14 +1,24 @@
-1. Hight poly model
+1. High poly model
  
 2. Low poly model (and mb Retopology?)
  
 3. UV mapping
  - Mark Sharp edges (now in blender, learn RizomUV)
  - Mark Seam edges (now in blender, learn RizomUV)
+ - Triangulation now?
  - Move to RizomUV - use RizomUV Bridge Export (addon for blender)
  - add padding
  - repacking
  - Move to Blender - use RizomUV Bridge Import (addon for blender)
  
- 4. Bake
-  - 
+4. Bake
+ - Export Low poly model as .fbx
+ - Export High poly model as .fbx
+ - Load Low and High poly models to Marmoset Toolbag
+ - Bake maps: Normals, Material ID, Occlusion
+ 
+ 
+ ...
+ 
+ 
+ 
