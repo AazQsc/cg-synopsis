@@ -13,6 +13,7 @@
      2048x2048  8-12px
      4096x4096  12-16px
  - repacking
+     overlaps and mirrors - двигаем в сторону на соседний квадрат.
  - Move to Blender - use RizomUV Bridge Import (addon for blender)
  
 4. Bake
