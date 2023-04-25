@@ -7,7 +7,8 @@
  - Mark Seam edges (now in blender, learn RizomUV)
  - Triangulation now?
  - Move to RizomUV - use RizomUV Bridge Export (addon for blender)
- - add padding
+ - set pixel density and resolution
+ - set padding
  - repacking
  - Move to Blender - use RizomUV Bridge Import (addon for blender)
  
@@ -17,6 +18,18 @@
  - Load Low and High poly models to Marmoset Toolbag
  - Bake maps: Normals, Material ID, Occlusion
  
+  Check Bake (use Yavne add-on if need it)
+   - Хард-софт эджи
+   - Градиенты
+   - Потяжки
+   - Совпадение High Poly и Low Poly моделей
+   - Сечения на цилиндрах
+   - Летающая геометрия (Float geometry)
+   - Выравнивание нормалей (Average normal)
+   - Ложная перспектива (Fake perspective)
+   - Размер элементов и разрешение текстуры
+   - Отверстия в High Poly
+   - Плотность High Poly
  
  ...
  
