@@ -30,6 +30,8 @@
    - Совпадение High Poly и Low Poly моделей
    - Сечения на цилиндрах
    - Летающая геометрия (Float geometry)
+   - вшитые и невшитые объекты
+      'Soften' function in Marmoset for baking comparison filtering
    - Выравнивание нормалей (Average normal)
       'Smooth Cage' function in Marmoset change Average/Non-Average
    - Ложная перспектива (Fake perspective)
