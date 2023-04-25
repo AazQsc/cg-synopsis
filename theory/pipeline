@@ -21,7 +21,10 @@
  - Export Low poly model as .fbx
  - Export High poly model as .fbx
  - Load Low and High poly models to Marmoset Toolbag
- - Bake maps: Normals, Material ID, Occlusion
+ - Bake maps: 
+    Normals - Marmoset, 
+    Material ID - Substance painter? 
+    Occlusion - Substance painter?
  
   Check Normals Bake (use Yavne add-on if need it)
    - Хард-софт эджи
@@ -38,9 +41,14 @@
    - Размер элементов и разрешение текстуры (smal bevel like example - it is bad)
    - Отверстия в High Poly
    - Плотность High Poly
+   - Tangent Space Normal Map - 16-32bit,
+      Потому что в SP и SD на их основе делается World Space Normal и Curvature (будут баги)
    
   Check Occlusion Bake
    - должен присутствовать белый цвет (255), Marmoset изза этого плохо запекает Occlusion
+   
+  Check Color ID Bake
+   - Substance painter. Antialiasing - off + blure
  
  
  
