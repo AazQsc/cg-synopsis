@@ -15,7 +15,7 @@
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/theory.jpg)
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
 - [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
-- [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
+- [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.htm l)
 - [Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
 
 <br>
@@ -25,6 +25,7 @@
 ##### BAKE
 - [Всё про Bake (запечку) как этап ААА-пайплайна](https://dtf.ru/gamedev/96898-vse-pro-bake-zapechku-kak-etap-aaa-payplayna)
 - [Главные ошибки при запекании карт нормалей](https://dtf.ru/u/224873-artcraft-school/617679-glavnye-oshibki-pri-zapekanii-kart-normaley)
+- [Maksym Makovskyi - Baking for the Game Assets](https://youtu.be/z9AaC-WVJRQ)
 - [Fix normals with Yavne add-on Part 1](https://www.youtube.com/watch?v=PBaUaF6Agfc)
 - [Fix normals with Yavne add-on Part 2](https://www.youtube.com/watch?v=DYsU8EDV_fw&t=1s)
 
