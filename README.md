@@ -15,7 +15,7 @@
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/theory.jpg)
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
 - [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
-- [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.htm l)
+- [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 - [Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
 
 <br>
