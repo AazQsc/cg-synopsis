@@ -17,8 +17,12 @@
 - [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
 - [Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
+
+##### BAKE
 - [Всё про Bake (запечку) как этап ААА-пайплайна](https://dtf.ru/gamedev/96898-vse-pro-bake-zapechku-kak-etap-aaa-payplayna)
 - [Главные ошибки при запекании карт нормалей](https://dtf.ru/u/224873-artcraft-school/617679-glavnye-oshibki-pri-zapekanii-kart-normaley)
+- [Fix normals with Yavne add-on Part 1](https://www.youtube.com/watch?v=PBaUaF6Agfc)
+- [Fix normals with Yavne add-on Part 2](https://www.youtube.com/watch?v=DYsU8EDV_fw&t=1s)
 
 <br>
 <br>
