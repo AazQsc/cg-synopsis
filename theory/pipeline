@@ -5,7 +5,6 @@
 3. UV mapping
  - Mark Sharp edges (now in blender, learn RizomUV)
  - Mark Seam edges (now in blender, learn RizomUV)
- - Triangulation now?
  - Move to RizomUV - use RizomUV Bridge Export (addon for blender)
  - set pixel density and resolution
  - set padding
@@ -13,6 +12,7 @@
  - Move to Blender - use RizomUV Bridge Import (addon for blender)
  
 4. Bake
+ - Triangulate model
  - Export Low poly model as .fbx
  - Export High poly model as .fbx
  - Load Low and High poly models to Marmoset Toolbag
