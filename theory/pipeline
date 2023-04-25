@@ -31,6 +31,7 @@
    - Сечения на цилиндрах
    - Летающая геометрия (Float geometry)
    - Выравнивание нормалей (Average normal)
+      'Smooth Cage' function in Marmoset change Average/Non-Average
    - Ложная перспектива (Fake perspective)
    - Размер элементов и разрешение текстуры (smal bevel like example - it is bad)
    - Отверстия в High Poly
