@@ -8,6 +8,10 @@
  - Move to RizomUV - use RizomUV Bridge Export (addon for blender)
  - set pixel density and resolution
  - set padding
+     512x512    4px
+     1024x1024  4-8px
+     2048x2048  8-12px
+     4096x4096  12-16px
  - repacking
  - Move to Blender - use RizomUV Bridge Import (addon for blender)
  
