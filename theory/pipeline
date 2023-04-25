@@ -22,9 +22,9 @@
  - Export High poly model as .fbx
  - Load Low and High poly models to Marmoset Toolbag
  - Bake maps: 
-    Normals - Marmoset, 
-    Material ID - Substance painter? 
-    Occlusion - Substance painter?
+    Normals - Maya, Marmoset
+    Material ID - Substance painter
+    Occlusion - Substance painter
  
   Check Normals Bake (use Yavne add-on if need it)
    - Хард-софт эджи
