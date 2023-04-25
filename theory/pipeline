@@ -23,8 +23,8 @@
  - Load Low and High poly models to Marmoset Toolbag
  - Bake maps: 
     Normals - Maya, Marmoset
-    Material ID - Substance painter
-    Occlusion - Substance painter
+    Material ID - Substance painter/designer
+    Occlusion - Substance painter/designer
  
   Check Normals Bake (use Yavne add-on if need it)
    - Хард-софт эджи
