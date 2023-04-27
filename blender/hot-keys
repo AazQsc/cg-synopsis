@@ -30,6 +30,7 @@ shift + D             duplicate geometry
 
 GG                    move by edges
 
+S + (Z,X,Y) + 0       vertex alignment
 E + (Z,X,Y)           extrude inner
 E + S                 extrude outer
 I                     inset faces
