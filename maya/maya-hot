@@ -2,6 +2,13 @@ NAVIGATION
 
 Alt + mouse                - move camera as y want
 F                          - frame, camera to obj
+A                          - show all
+
+4                          - display wireframe
+5                          - display shaded (default)
+6                          - display shaded with textures
+7                          - display shaded with textures and light
+
 
 
 
