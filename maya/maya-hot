@@ -13,6 +13,11 @@ space + rmouse             - select view
 select obj + rmouse        - select mode
 
 
+W                          - move
+E                          - rotate
+R                          - scale
+
+
 
 
 
