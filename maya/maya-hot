@@ -1,33 +1,36 @@
 ------ NAVIGATION ---------------------------------------------
 
-Alt + mouse                - move camera as y want
-F                          - frame, camera to obj
-A                          - show all
+Alt + mouse                 - move camera as y want
+F                           - frame, camera to obj
+A                           - show all
 
-4                          - display wireframe
-5                          - display shaded (default)
-6                          - display shaded with textures
-7                          - display shaded with light
+4                           - display wireframe
+5                           - display shaded (default)
+6                           - display shaded with textures
+7                           - display shaded with light
 
-space + rmouse             - select view
-select obj + rmouse        - select mode
+space + rmouse              - select view
+select obj + rmouse         - select mode
 
 
 
 ------ EDIT ----------------------------------------------------
 
-W                          - move
-E                          - rotate
-R                          - scale
+W                           - move
+E                           - rotate
+R                           - scale
 
 
 
 ------ ANIMATION -----------------------------------------------
 
-S                          - add keyframe
-Shift + W                  - move
-Shift + E                  - rotate
-Shift + R                  - scale
+S                           - add keyframe
+Shift + W                   - move
+Shift + E                   - rotate
+Shift + R                   - scale
+
+Shift + select on frameline - select keyframe
+Shift + select on graphedit - move by line (and mouse 3)
 
 
 
