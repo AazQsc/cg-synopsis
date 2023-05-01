@@ -47,6 +47,14 @@
 <br>
 <br>
 
+![](https://github.com/AazQsc/cg-synopsis/blob/main/maya.jpg)
+- [Hot key's (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/maya/maya-hot)
+- [Base of Animation](https://youtu.be/PaRkXr8d-SI)
+
+<br>
+<br>
+<br>
+
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/tools.jpg)
 - [Maps Models Importer by Elie Michel](https://github.com/eliemichel/MapsModelsImporter)
 - [City Map Generator Online](https://maps.probabletrain.com/#/)
