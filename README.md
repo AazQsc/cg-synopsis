@@ -36,6 +36,18 @@
 - [Создание карт из функций шума](https://habr.com/ru/articles/430384/)
 - [Использование алгоритма Прима для генерации соединённых друг с другом пещер](https://habr.com/ru/articles/537630/)
 
+##### ANIMATIONS
+- [21 принцип анимации от Дермота О’Коннора](https://dtf.ru/howto/809857-perevod-21-princip-animacii-ot-dermota-o-konnora)
+- [Чувство веса в анимации](https://www.youtube.com/watch?v=8m1C8C274Gk)
+- [Анимация | Принципы | Доводка и захлест](https://www.youtube.com/watch?v=owDouZ44ejo&t=76s)
+- [Анимация | Принципы | Компановка и прямая фазовка Straight Ahead Action Pose to Pose](https://www.youtube.com/watch?v=cV--m_oGwAY)
+- [Анимация | Принципы | Сценичность (Staging)](https://www.youtube.com/watch?v=2mVnVBI61UY&t=144s)
+- [Анимация | Принципы | Подготовка](https://www.youtube.com/watch?v=lmJqPjT5upk&t=87s)
+- [Анимация | Принципы | Сжатие и растяжение (Squash and stretch)](https://www.youtube.com/watch?v=BL40PbAIaII&t=211s)
+- [Как отличить плохую анимацию от хорошей?](https://www.youtube.com/watch?v=nMS6ZwyhOjE)
+- [MAYA 3D - КАК СОЗДАВАТЬ АНИМАЦИЮ](https://www.youtube.com/watch?v=nWnUEKFqBJ8)
+- [12 принципов анимации (Все серии)](https://www.youtube.com/watch?v=uDqjIdI4bF4)
+
 <br>
 <br>
 <br>
@@ -78,6 +90,8 @@
 - [poliigon.com](https://www.poliigon.com/)
 - [quixel.com - link is work, I really don't know why 403 is happened](https://quixel.com/megascans/home)
 - [Julio Sillet textures](https://juliosillet.gumroad.com/)
+- [Agora. Animation Community](https://agora.community/)
+- [turbosquid.com](https://www.turbosquid.com/ru/)
 
 <br>
 <br>
