@@ -15,8 +15,6 @@
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/theory.jpg)
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
 - [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
-- [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
-- [Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
 
 <br>
 
@@ -28,6 +26,15 @@
 - [Maksym Makovskyi - Baking for the Game Assets](https://youtu.be/z9AaC-WVJRQ)
 - [Fix normals with Yavne add-on Part 1](https://www.youtube.com/watch?v=PBaUaF6Agfc)
 - [Fix normals with Yavne add-on Part 2](https://www.youtube.com/watch?v=DYsU8EDV_fw&t=1s)
+
+##### PROCEDURAL GENERATION AND MAPS CREATING
+- [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
+- [Как происходит генерация мира Minecraft](https://habr.com/ru/post/673268/)
+- [Процедурная генерация подземелий в roguelike](https://habr.com/ru/articles/354826/)
+- [Быстрое и плавное смешение биомов игровой карты](https://habr.com/ru/articles/566714/)
+- [Как я создавал карты континентов для своей игры](https://habr.com/ru/articles/429620/)
+- [Создание карт из функций шума](https://habr.com/ru/articles/430384/)
+- [Использование алгоритма Прима для генерации соединённых друг с другом пещер](https://habr.com/ru/articles/537630/)
 
 <br>
 <br>
