@@ -35,6 +35,8 @@
 - [Как я создавал карты континентов для своей игры](https://habr.com/ru/articles/429620/)
 - [Создание карт из функций шума](https://habr.com/ru/articles/430384/)
 - [Использование алгоритма Прима для генерации соединённых друг с другом пещер](https://habr.com/ru/articles/537630/)
+- [Прямоугольные тайловые миры](https://habr.com/ru/articles/554960/)
+- [Introduction to the A* Algorithm](https://www.redblobgames.com/pathfinding/a-star/introduction.html)
 
 ##### ANIMATIONS
 - [21 принцип анимации от Дермота О’Коннора](https://dtf.ru/howto/809857-perevod-21-princip-animacii-ot-dermota-o-konnora)
@@ -92,6 +94,8 @@
 - [Julio Sillet textures](https://juliosillet.gumroad.com/)
 - [Agora. Animation Community](https://agora.community/)
 - [turbosquid.com](https://www.turbosquid.com/ru/)
+- [3dmodels](https://3dmodels.ru/)
+- [Itch. Indi Game Community](https://itch.io/)
 
 <br>
 <br>
