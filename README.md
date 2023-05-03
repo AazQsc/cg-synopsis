@@ -86,6 +86,7 @@
 <br>
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/3dplaces.jpg)
+- [Zbrush. Alpha for sculpting](https://pixologic.com/zbrush/downloadcenter/alpha/#prettyPhoto)
 - [Blendermarket](https://blendermarket.com/)
 - [Poly Haven - materials data](https://polyhaven.com/)
 - [textures.com](https://www.textures.com/)
