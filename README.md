@@ -8,7 +8,7 @@
 ##### TEXTURING
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 ##### BAKE
--[Запекание кирпича + Piplene](https://youtu.be/98varZf1CMQ)
+- [Запекание кирпича + Piplene](https://youtu.be/98varZf1CMQ)
 
 <br>
 <br>
