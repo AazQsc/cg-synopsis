@@ -7,6 +7,8 @@
 - [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
 ##### TEXTURING
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
+##### BAKE
+-[Запекание кирпича + Piplene](https://youtu.be/98varZf1CMQ)
 
 <br>
 <br>
