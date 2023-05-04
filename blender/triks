@@ -28,7 +28,11 @@ Scattering
 -> add vertex group to particle system
 
 
-
+Sculpt by Alpha
+-> Brush Properties -> Texture -> New
+-> Texture Properties -> open y texture 
+-> Brush Properties -> Mapping to 'View Plane'
+-> Brush Properties -> Stroke Method to 'Anchored'
 
 
 
