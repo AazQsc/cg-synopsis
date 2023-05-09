@@ -5,6 +5,7 @@
 ##### GEOMETRY NODES
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/Examples.md)
 - [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
+- [How do I correct the rotation of an instance for each face](https://blender.stackexchange.com/questions/244669/how-do-i-correct-the-rotation-of-an-instance-for-each-face-using-geometry-nodes)
 ##### TEXTURING
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 ##### BAKE
