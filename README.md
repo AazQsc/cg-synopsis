@@ -2,6 +2,7 @@
 - [Hot key's and Tools controls (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [How to fix it? (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/noteshowtofixit)
 - [Tips (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
+- [Трещины - Cell Fracture](https://youtu.be/OSSzPpLUO1Q)
 ##### GEOMETRY NODES
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/Examples.md)
 - [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
