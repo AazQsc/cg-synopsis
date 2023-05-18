@@ -16,6 +16,7 @@
 - [Fix normals with Yavne add-on Part 1](https://www.youtube.com/watch?v=PBaUaF6Agfc)
 - [Fix normals with Yavne add-on Part 2](https://www.youtube.com/watch?v=DYsU8EDV_fw&t=1s)
 - [How to Texture Bake Procedural Materials](https://www.youtube.com/watch?v=AioskAgcU2U)
+- [Blender how to Reduce Poly Count and Bake Textures (bread)](https://www.youtube.com/watch?v=Yx9TvvnxCAM)
 ##### TEXTURING
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 
