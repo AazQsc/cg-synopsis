@@ -7,17 +7,17 @@
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/Examples.md)
 - [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
 - [How do I correct the rotation of an instance for each face](https://blender.stackexchange.com/questions/244669/how-do-i-correct-the-rotation-of-an-instance-for-each-face-using-geometry-nodes)
+##### SCULPTING
+- [Meshes pushed other side when sculpting](https://blender.stackexchange.com/questions/203658/meshes-pushed-other-side-when-sculpting)
 ##### UV
 - [Продвинутая UV-развёртка и текстурные атласы](https://www.youtube.com/watch?v=gQZU48UtYpg)
-##### TEXTURING
-- [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 ##### BAKE
 - [Запекание кирпича + Piplene](https://youtu.be/98varZf1CMQ)
 - [Fix normals with Yavne add-on Part 1](https://www.youtube.com/watch?v=PBaUaF6Agfc)
 - [Fix normals with Yavne add-on Part 2](https://www.youtube.com/watch?v=DYsU8EDV_fw&t=1s)
 - [How to Texture Bake Procedural Materials](https://www.youtube.com/watch?v=AioskAgcU2U)
-##### SCULPTING
-- [Meshes pushed other side when sculpting](https://blender.stackexchange.com/questions/203658/meshes-pushed-other-side-when-sculpting)
+##### TEXTURING
+- [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 
 <br>
 <br>
