@@ -15,6 +15,7 @@
 - [Запекание кирпича + Piplene](https://youtu.be/98varZf1CMQ)
 - [Fix normals with Yavne add-on Part 1](https://www.youtube.com/watch?v=PBaUaF6Agfc)
 - [Fix normals with Yavne add-on Part 2](https://www.youtube.com/watch?v=DYsU8EDV_fw&t=1s)
+- [How to Texture Bake Procedural Materials](https://www.youtube.com/watch?v=AioskAgcU2U)
 ##### SCULPTING
 - [Meshes pushed other side when sculpting](https://blender.stackexchange.com/questions/203658/meshes-pushed-other-side-when-sculpting)
 
