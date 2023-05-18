@@ -35,6 +35,12 @@ Sculpt by Alpha
 -> Brush Properties -> Stroke Method to 'Anchored'
 
 
+Radial modeling
+-> add plane and rotate to 90
+-> add modifier 'Array'
+-> than add modifier 'Simple deform' -> set 'bend' type of modifying -> set angle to 360 -> Axis to Z
+
+
 
 
 
