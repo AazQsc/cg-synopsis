@@ -27,6 +27,7 @@ Alt + H               unhide selected
 Shift + A             create something
 Shift + R             repeat previous action
 shift + D             duplicate geometry
+Alt + D               create linked copy (not a new instance)
 
 GG                    move by edges
 
