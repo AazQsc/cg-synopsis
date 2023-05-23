@@ -37,6 +37,8 @@
 - [Главные ошибки при запекании карт нормалей](https://dtf.ru/u/224873-artcraft-school/617679-glavnye-oshibki-pri-zapekanii-kart-normaley)
 - [Maksym Makovskyi - Baking for the Game Assets](https://youtu.be/z9AaC-WVJRQ)
 - [Bake mistakes](https://www.youtube.com/watch?v=1rKimUt5koc)
+- [Запекание (гайд в нескольких частях, перевод)](https://www.youtube.com/watch?v=hh_IaxGeo_I&list=PLW-edvk8DPoABxY7vtXFVtDt56_LFKBUb&index=1)
+- [Baking (guide in several parts, original)](https://www.youtube.com/watch?v=MUTdHgif65g&list=PLn3ukorJv4vsa02LIuM_IQF-SASAZBnyi&index=1)
 
 ##### PROCEDURAL GENERATION AND MAPS CREATING
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
