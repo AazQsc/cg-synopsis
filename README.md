@@ -22,6 +22,9 @@
 - [Создание текстурного атласа](https://www.youtube.com/watch?v=wA9wvNaBgEA)
 ##### TEXTURING
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
+##### ADDONS
+- [UVPackmaster 3 PRO](https://glukoz.gumroad.com/l/uvpackmaster3)
+- [Texel Density Checker](https://mrven.gumroad.com/l/CEIOR)
 
 <br>
 <br>
