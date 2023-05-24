@@ -36,10 +36,17 @@
 - [Game pipeline (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/theory/pipeline)
 
 ##### TEXTURING
+- [Текстурирование, или что нужно знать, чтобы стать художником по поверхностям (Часть 1. Пиксель)](https://dtf.ru/u/3872-denis-kuznecov/209535-teksturirovanie-ili-chto-nuzhno-znat-chtoby-stat-hudozhnikom-po-poverhnostyam)
+- [Текстурирование, или что нужно знать, чтобы стать художником по поверхностям (Часть 2. Маски и текстуры)](https://dtf.ru/u/3872-denis-kuznecov/210209-teksturirovanie-ili-chto-nuzhno-znat-chtoby-stat-hudozhnikom-po-poverhnostyam-chast-2-maski-i-tekstury)
+- [Текстурирование, или что нужно знать, чтобы стать художником по поверхностям (Часть 3. PBR и материалы)](https://dtf.ru/u/3872-denis-kuznecov/210838-teksturirovanie-ili-chto-nuzhno-znat-chtoby-stat-hudozhnikom-po-poverhnostyam-chast-3-pbr-i-materialy)
+- [Текстурирование, или что нужно знать, чтобы стать художником по поверхностям (Часть 4. Модели, нормали и развертка)](https://dtf.ru/u/3872-denis-kuznecov/211976-teksturirovanie-ili-chto-nuzhno-znat-chtoby-stat-hudozhnikom-po-poverhnostyam-chast-4-modeli-normali-i-razvertka)
+- [Текстурирование, или что нужно знать, чтобы стать художником по поверхностям (Часть 5. Система материалов)](https://dtf.ru/u/3872-denis-kuznecov/213001-teksturirovanie-ili-chto-nuzhno-znat-chtoby-stat-hudozhnikom-po-poverhnostyam-chast-5-sistema-materialov)
+- [Текстурирование, или что нужно знать, чтобы стать художником по поверхностям (Часть 6. Погружение в Систему Материалов)](https://dtf.ru/u/3872-denis-kuznecov/225245-teksturirovanie-ili-chto-nuzhno-znat-chtoby-stat-hudozhnikom-po-poverhnostyam-chast-6-pogruzhenie-v-sistemu-materialov)
 - [Как улучшить качество текстур: разбор методов оптимизации UV](https://dtf.ru/gamedev/202100-kak-uluchshit-kachestvo-tekstur-razbor-metodov-optimizacii-uv)
 - [Texel density. Зачем нужен и как его применять](https://habr.com/ru/articles/315146/)
 - [All You Need to Know about Texel Density (Leonardo Iezzi)](https://www.artstation.com/artwork/qbOqP)
 - [What is Texel Density? - A Layman's guide. (Chris Green)](https://www.artstation.com/artwork/qA1lDy)
+- [Пиксельные отступы в текстурной развертке](https://habr.com/ru/companies/plarium/articles/451794/)
 
 ##### BAKE
 - [Всё про Bake (запечку) как этап ААА-пайплайна](https://dtf.ru/gamedev/96898-vse-pro-bake-zapechku-kak-etap-aaa-payplayna)
