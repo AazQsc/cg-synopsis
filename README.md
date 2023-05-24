@@ -35,14 +35,17 @@
 
 - [Game pipeline (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/theory/pipeline)
 
+##### TEXTURING
+- [Как улучшить качество текстур: разбор методов оптимизации UV](https://dtf.ru/gamedev/202100-kak-uluchshit-kachestvo-tekstur-razbor-metodov-optimizacii-uv)
+- [Texel density. Зачем нужен и как его применять](https://habr.com/ru/articles/315146/)
+- [All You Need to Know about Texel Density (Leonardo Iezzi)](https://www.artstation.com/artwork/qbOqP)
+- [What is Texel Density? - A Layman's guide. (Chris Green)](https://www.artstation.com/artwork/qA1lDy)
+
 ##### BAKE
 - [Всё про Bake (запечку) как этап ААА-пайплайна](https://dtf.ru/gamedev/96898-vse-pro-bake-zapechku-kak-etap-aaa-payplayna)
 - [Главные ошибки при запекании карт нормалей](https://dtf.ru/u/224873-artcraft-school/617679-glavnye-oshibki-pri-zapekanii-kart-normaley)
 - [Maksym Makovskyi - Baking for the Game Assets](https://youtu.be/z9AaC-WVJRQ)
 - [Bake mistakes](https://www.youtube.com/watch?v=1rKimUt5koc)
-- [Texel density. Зачем нужен и как его применять](https://habr.com/ru/articles/315146/)
-- [All You Need to Know about Texel Density (Leonardo Iezzi)](https://www.artstation.com/artwork/qbOqP)
-- [What is Texel Density? - A Layman's guide. (Chris Green)](https://www.artstation.com/artwork/qA1lDy)
 
 ##### PROCEDURAL GENERATION AND MAPS CREATING
 - [The Perlin Problem: Moving Past Square Noise](https://noiseposti.ng/posts/2022-01-16-The-Perlin-Problem-Moving-Past-Square-Noise.html)
