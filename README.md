@@ -19,6 +19,7 @@
 - [Blender how to Reduce Poly Count and Bake Textures (bread)](https://www.youtube.com/watch?v=Yx9TvvnxCAM)
 - [Запекание (гайд в нескольких частях, перевод)](https://www.youtube.com/watch?v=hh_IaxGeo_I&list=PLW-edvk8DPoABxY7vtXFVtDt56_LFKBUb&index=1)
 - [Baking (guide in several parts, original)](https://www.youtube.com/watch?v=MUTdHgif65g&list=PLn3ukorJv4vsa02LIuM_IQF-SASAZBnyi&index=1)
+- [Создание текстурного атласа](https://www.youtube.com/watch?v=wA9wvNaBgEA)
 ##### TEXTURING
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 
