@@ -25,6 +25,8 @@
 ##### ADDONS
 - [UVPackmaster 3 PRO](https://glukoz.gumroad.com/l/uvpackmaster3)
 - [Texel Density Checker](https://mrven.gumroad.com/l/CEIOR)
+- [UV Toolkit](https://alexbel.gumroad.com/l/NbMya)
+- [UV Toolkit (docs)](https://alexbelyakov.gitlab.io/uv-toolkit-docs/)
 
 <br>
 <br>
