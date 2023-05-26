@@ -51,6 +51,7 @@
 - [Texel density. Зачем нужен и как его применять](https://habr.com/ru/articles/315146/)
 - [All You Need to Know about Texel Density (Leonardo Iezzi)](https://www.artstation.com/artwork/qbOqP)
 - [What is Texel Density? - A Layman's guide. (Chris Green)](https://www.artstation.com/artwork/qA1lDy)
+- [Texel Density and other bits of texture theory](https://www.artstation.com/marketplace/p/nVn7/texel-density-and-other-bits-of-texture-theory?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
 - [Пиксельные отступы в текстурной развертке](https://habr.com/ru/companies/plarium/articles/451794/)
 
 ##### BAKE
