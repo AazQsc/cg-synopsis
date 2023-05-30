@@ -101,6 +101,13 @@
 <br>
 <br>
 
+![](https://github.com/AazQsc/cg-synopsis/blob/main/RizomUV.png)
+- [Разбор основной функциональности](https://youtu.be/6-rgp-c8aSY)
+
+<br>
+<br>
+<br>
+
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/maya.jpg)
 - [Hot key's (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/maya/maya-hot)
 - [Base of Animation](https://youtu.be/PaRkXr8d-SI)
