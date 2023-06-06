@@ -20,6 +20,7 @@
 - [Запекание (гайд в нескольких частях, перевод)](https://www.youtube.com/watch?v=hh_IaxGeo_I&list=PLW-edvk8DPoABxY7vtXFVtDt56_LFKBUb&index=1)
 - [Baking (guide in several parts, original)](https://www.youtube.com/watch?v=MUTdHgif65g&list=PLn3ukorJv4vsa02LIuM_IQF-SASAZBnyi&index=1)
 - [Создание текстурного атласа](https://www.youtube.com/watch?v=wA9wvNaBgEA)
+- [What color space should I use for combined PBR maps?](https://blender.stackexchange.com/questions/230194/what-color-space-should-i-use-for-combined-pbr-maps)
 ##### TEXTURING
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/textures/basics-realistic-texturing.md)
 ##### ADDONS
