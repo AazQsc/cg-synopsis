@@ -31,7 +31,7 @@ Alt + D               create linked copy (not a new instance)
 
 GG                    move by edges
 
-S + (Z,X,Y) + 0       vertex alignment
+S + (Z,X,Y) + 0       vertex alignment (it is it ! )
 E + (Z,X,Y)           extrude inner
 E + S                 extrude outer
 I                     inset faces
