@@ -100,6 +100,9 @@
 - [UE5 Starter Course 2023 by Unreal Sensei - машинный перевод](https://www.youtube.com/watch?v=oPM51zg4XHU)
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
 
+##### BLUEPRINT
+- [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
+
 <br>
 <br>
 <br>
