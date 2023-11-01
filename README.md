@@ -100,9 +100,12 @@
 - [UE5 Starter Course 2022 by Unreal Sensei](https://youtu.be/k-zMkzmduqI)
 - [UE5 Starter Course 2023 by Unreal Sensei - машинный перевод](https://www.youtube.com/watch?v=oPM51zg4XHU)
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
+- [How to Make a Custom Decal With a Texture in Unreal Engine 5](https://www.youtube.com/watch?v=acbbuGUM2fo)
+- [Fog material](https://www.youtube.com/watch?v=NL6aMamsc7E)
 
 ##### BLUEPRINT
 - [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
+- [Top-down template tutorial (camera rotation + zoom + WASD)](https://www.youtube.com/watch?v=c3Eh9bZnMVs)
 
 <br>
 <br>
