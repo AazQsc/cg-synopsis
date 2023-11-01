@@ -3,7 +3,7 @@
 - [How to fix it? (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/noteshowtofixit)
 - [Tips (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 - [Трещины - Cell Fracture](https://youtu.be/OSSzPpLUO1Q)
-- [How to render certain edges?]([https://youtu.be/OSSzPpLUO1Q](https://blender.stackexchange.com/questions/95097/how-to-render-certain-edges)
+- [How to render certain edges?](https://blender.stackexchange.com/questions/95097/how-to-render-certain-edges)
 ##### GEOMETRY NODES
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/Examples.md)
 - [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
