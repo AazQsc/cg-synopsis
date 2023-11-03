@@ -104,6 +104,7 @@
 - [How to Make a Custom Decal With a Texture in Unreal Engine 5](https://www.youtube.com/watch?v=acbbuGUM2fo)
 - [Fog material](https://www.youtube.com/watch?v=NL6aMamsc7E)
 - [How do I disable all unused plugins](https://forums.unrealengine.com/t/how-do-i-disable-all-unused-plugins-if-i-am-not-sure-which-one-are-in-use/628737/4)
+- [How to correctly rename Your Projects](https://www.youtube.com/watch?v=qGn1SfX6s9I)
 
 ##### BLUEPRINT
 - [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
