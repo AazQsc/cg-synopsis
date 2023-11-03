@@ -103,6 +103,7 @@
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
 - [How to Make a Custom Decal With a Texture in Unreal Engine 5](https://www.youtube.com/watch?v=acbbuGUM2fo)
 - [Fog material](https://www.youtube.com/watch?v=NL6aMamsc7E)
+- [How do I disable all unused plugins](https://forums.unrealengine.com/t/how-do-i-disable-all-unused-plugins-if-i-am-not-sure-which-one-are-in-use/628737/4)
 
 ##### BLUEPRINT
 - [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
