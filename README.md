@@ -150,6 +150,7 @@
 - [turbosquid.com](https://www.turbosquid.com/ru/)
 - [3dmodels](https://3dmodels.ru/)
 - [Itch. Indi Game Community](https://itch.io/)
+  [ambientcg - textures](https://ambientcg.com/)
 
 <br>
 <br>
