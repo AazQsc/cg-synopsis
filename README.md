@@ -43,6 +43,7 @@
 
 - [Game pipeline (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/theory/pipeline)
 - [A Few Common Scifi Mistakes - Quick Ways to Improve](https://www.youtube.com/watch?v=AkYnoaSB5xw)
+- [HOUDINI FAQ/courses and tutorials](http://hipnc.club/houdini-faq/)
 
 ##### TEXTURING
 - [Текстурирование, или что нужно знать, чтобы стать художником по поверхностям (Часть 1. Пиксель)](https://dtf.ru/u/3872-denis-kuznecov/209535-teksturirovanie-ili-chto-nuzhno-znat-chtoby-stat-hudozhnikom-po-poverhnostyam)
