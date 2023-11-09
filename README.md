@@ -153,6 +153,8 @@
 - [Itch. Indi Game Community](https://itch.io/)
 - [ambientcg - textures](https://ambientcg.com/)
 
+<br>
+
 - [Blend-Exchange (file transfer)](https://blend-exchange.com/)
 
 <br>
