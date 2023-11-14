@@ -26,7 +26,7 @@ Alt + H               unhide selected
 
 Shift + A             create something
 Shift + R             repeat previous action
-shift + D             duplicate geometry
+Shift + D             duplicate geometry
 Alt + D               create linked copy (not a new instance)
 
 GG                    move by edges
@@ -46,6 +46,15 @@ Ctrl + B              bevel (use C if owerlaps)
 Ctrl + Shift + B      split a point
 Ctrl + 'Num-'         boolean operation (addOn Bool Tool enablen (?))
 Alt + V               extrude vertex and create faces by it
+
+
+------- OTHER ------- 
+
+F                     resize inner brush size
+Shift + F             resize outer brush size
+
+Ctrl + Shift + LCM    lasso mask (unedit)
+Alt + M               clear mask
 
 
 ------- OTHER ------- 
