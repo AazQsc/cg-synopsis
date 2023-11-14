@@ -45,6 +45,8 @@ Ctrl + R              add a cut section of points (scroll if you wan't more part
 Ctrl + B              bevel (use C if owerlaps)
 Ctrl + Shift + B      split a point
 Ctrl + 'Num-'         boolean operation (addOn Bool Tool enablen (?))
+Alt + V               extrude vertex and create faces by it
+
 
 ------- OTHER ------- 
 
