@@ -1,16 +1,42 @@
 ------------------------
         BIOMASS         
 ------------------------
-1. Create bolckout for High poly model
+1. Prepare Blockout
+
+-- Use Metabols
+-- Use cubes!
+        -> add subdiv mod
+        -> enable smooth
+        -> Object -> apply -> Visual Geometry to mesh
+-- Tentacles modeling
+        -> add subdiv mod first
+        -> add skin mod second
+        -> add subdiv mod third
+        -> use 'gg' to x-ray mode
+        -> use 'Ctrl + A' to do bold or skiner the line
+
+2. Sculpting
+
+-- Use alphas!
+        Brush Settings
+        -> Mapping: Area Plane
+        -> Stroke Method: Anchored
+        Addon
+        -> GrabDoc
+-- Main Brushes
+        Shift - smoothing
+        Ctrl - invert height
+        -> Scrape
+                Advanced: Use Original: normal + Normal Radius to 0.1-0.2 + Direction: Peaks (?)
+        -> Draw
+        -> Draw Sharp
+        -> Clay Strips
+                Use 'Front Faces Only' if add to a lot 
+        -> Clay
+        -> Grab
 
 
 
-Tentacles modeling
--> add subdiv mod first
--> add skin mod second
--> add subdiv mod third
--> use 'gg' to x-ray mode
--> use 'Ctrl + A' to do bold or skiner the line
 
 
 
