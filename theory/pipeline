@@ -58,6 +58,7 @@ ________________________
                 Use several times instead increase Ratio
                 Enable Triangulate at the last
                 Add Shrinkwrap mod to loy poly
+                Add Triangulate mod to loy poly (?)
                 Fix Shading (use smooth mode)
         Addons:
                 instant-meshes (https://github.com/wjakob/instant-meshes)
