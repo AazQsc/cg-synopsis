@@ -63,8 +63,14 @@ ________________________
         Addons:
                 instant-meshes (https://github.com/wjakob/instant-meshes)
                 Quad Remesher (Paid but cool)
-                
-                
+
+________________________
+4. UV unwrapping
+        -> Mark Seam edges 
+        -> Unwrap
+        -> Repacking
+        -> Add Image Texture
+                New: Generated Type: UV Grid
 
 
 
