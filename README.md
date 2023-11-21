@@ -41,7 +41,7 @@
 
 <br>
 
-- [Game pipeline (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/theory/pipeline)
+- [Pipeline (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/theory/pipeline)
 - [A Few Common Scifi Mistakes - Quick Ways to Improve](https://www.youtube.com/watch?v=AkYnoaSB5xw)
 - [HOUDINI FAQ/courses and tutorials](http://hipnc.club/houdini-faq/)
 
