@@ -39,6 +39,12 @@ ________________________
 
 ________________________
 3. Retopology
+        Manual
+        -> Use Miltires and Remesh mods for simplify model
+        -> Create Vertex + Magnit: Snap to Face: disable Project onto Self: enable Project Individual Elements: on to move\rotatee\scale
+        -> Color mode: random
+        -> Add Shrinkwrap mod to loy poly
+        -> Use LoopTools: Relax
 
 
 
