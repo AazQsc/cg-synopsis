@@ -39,12 +39,31 @@ ________________________
 
 ________________________
 3. Retopology
-        Manual
+        
+-- Manual
         -> Use Miltires and Remesh mods for simplify model
-        -> Create Vertex + Magnit: Snap to Face: disable Project onto Self: enable Project Individual Elements: on to move\rotatee\scale
+        -> Create Vertex + Magnit: 
+                        Snap to Face 
+                        disable Project onto Self
+                        enable Project Individual Elements
+                        on to move\rotatee\scale
         -> Color mode: random
         -> Add Shrinkwrap mod to loy poly
         -> Use LoopTools: Relax
+        -> Use Poly Build Tool on edit mode
+-- Automatic
+        -> Remessher: quad: Quadriflow Remesh (not good)
+        -> Dacimate
+                mode: Collapse
+                Use several times instead increase Ratio
+                Enable Triangulate at the last
+                Add Shrinkwrap mod to loy poly
+                Fix Shading (use smooth mode)
+        Addons:
+                instant-meshes (https://github.com/wjakob/instant-meshes)
+                Quad Remesher (Paid but cool)
+                
+                
 
 
 
