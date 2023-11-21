@@ -69,7 +69,7 @@ ________________________
         -> Mark Seam edges 
         -> Unwrap
         -> Repacking
-        -> Add Image Texture
+        -> Add Image Texture for checking
                 New: Generated Type: UV Grid
 
 
