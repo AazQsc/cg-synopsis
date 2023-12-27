@@ -58,6 +58,7 @@
 - [What is Texel Density? - A Layman's guide. (Chris Green)](https://www.artstation.com/artwork/qA1lDy)
 - [Texel Density and other bits of texture theory](https://www.artstation.com/marketplace/p/nVn7/texel-density-and-other-bits-of-texture-theory?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
 - [Пиксельные отступы в текстурной развертке](https://habr.com/ru/companies/plarium/articles/451794/)
+- [TEXEL DENSITY by TIMOTHY DRIES](https://www.beyondextent.com/deep-dives/deepdive-texeldensity#:~:text=One%20way%20of%20calculating%20texel,screen%20to%20your%20texture%20size.)
 
 ##### BAKE
 - [Всё про Bake (запечку) как этап ААА-пайплайна](https://dtf.ru/gamedev/96898-vse-pro-bake-zapechku-kak-etap-aaa-payplayna)
