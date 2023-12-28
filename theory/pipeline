@@ -77,11 +77,21 @@ ________________________
                 uv-packer:
                         (https://www.uv-packer.com/blender/)
                         (https://github.com/3d-io/uvpacker-blender-addon)
+
+________________________
+5. Baking in Marmoset toolbag
+        -> Todo a preview bake and set folder to save you maps
+        -> Set in 'Output' section:
+                Samples = 16x
+                Format = 16bits
+                Soften = 0.089
+        -> Set in 'Texture Sets' section:
+                Multiple Texture Sets togle on and set prefix
+        ->
+
+
+
                 
-
-
-
-
 ------------------------
          OLD
 ------------------------
