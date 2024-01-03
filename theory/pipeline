@@ -90,6 +90,15 @@ ________________________
         -> Set AO Ray Count to 512 in 'Map' section.
         -> Select low model and set good offset (check 4?)
 
+   Baking in Quixel Mixer
+        -> Normal
+                R -
+                G - invert for Unreal Engine
+                B - 
+        -> Roughness
+                R - AO
+                G - Roughness
+                B - Metalness
 
                 
 ------------------------
