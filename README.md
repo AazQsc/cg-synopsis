@@ -118,6 +118,9 @@
 - [How to correctly rename Your Projects](https://www.youtube.com/watch?v=qGn1SfX6s9I)
 - [How to downgrade Unreal Engine assets](https://1danielcoelho.github.io/downgrade-unreal-asset/)
 - [How to downgrade Unreal Engine assets (git)](https://github.com/1danielcoelho/1danielcoelho.github.io/issues/3)
+- [UE5 getting weird shadow artifacts from custom animated mesh](https://www.reddit.com/r/unrealengine/comments/ymmlb3/ue5_getting_weird_shadow_artifacts_from_custom/)
+- [Light is much to bright after migration of a level](https://forums.unrealengine.com/t/light-is-much-to-bright-after-migration-of-a-level/788096/1)
+- [Flickering bright spots on textures in-editor](https://forums.unrealengine.com/t/flickering-bright-spots-on-textures-in-editor/1158234)
 
 <br>
 <br>
