@@ -32,6 +32,7 @@
 - [Texel Density Checker](https://mrven.gumroad.com/l/CEIOR)
 - [UV Toolkit](https://alexbel.gumroad.com/l/NbMya)
 - [UV Toolkit (docs)](https://alexbelyakov.gitlab.io/uv-toolkit-docs/)
+- [UV Packer - Fast. Accurate. Free.](https://www.uv-packer.com/blender/)
 
 <br>
 <br>
@@ -108,6 +109,7 @@
 - [UE5 Starter Course 2022 by Unreal Sensei](https://youtu.be/k-zMkzmduqI)
 - [UE5 Starter Course 2023 by Unreal Sensei - машинный перевод](https://www.youtube.com/watch?v=oPM51zg4XHU)
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
+- [Blender Export FBX with Textures to Unreal Engine 5 or Unity](https://www.youtube.com/watch?v=KtPYTaCcCNU)
 
 ##### BLUEPRINT AND NODES
 - [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
