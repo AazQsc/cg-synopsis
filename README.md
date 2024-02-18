@@ -107,6 +107,8 @@
 - [Fog material](https://www.youtube.com/watch?v=NL6aMamsc7E)
 - [How do I disable all unused plugins](https://forums.unrealengine.com/t/how-do-i-disable-all-unused-plugins-if-i-am-not-sure-which-one-are-in-use/628737/4)
 - [How to correctly rename Your Projects](https://www.youtube.com/watch?v=qGn1SfX6s9I)
+- [How to downgrade Unreal Engine assets](https://1danielcoelho.github.io/downgrade-unreal-asset/)
+- [How to downgrade Unreal Engine assets (git)](https://github.com/1danielcoelho/1danielcoelho.github.io/issues/3)
 
 ##### BLUEPRINT
 - [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
