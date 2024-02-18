@@ -48,6 +48,7 @@
 
 <br>
 
+- [Max Bedulenko \ Создание атмосферных миров \ Творческий путь в CG](https://www.youtube.com/live/G472wqTYkno?si=-ORp8p_rUCR76Q56)
 - [A Few Common Scifi Mistakes - Quick Ways to Improve](https://www.youtube.com/watch?v=AkYnoaSB5xw)
 - [HOUDINI FAQ/courses and tutorials](http://hipnc.club/houdini-faq/)
 
