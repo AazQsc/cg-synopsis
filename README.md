@@ -121,6 +121,9 @@
 - [UE5 getting weird shadow artifacts from custom animated mesh](https://www.reddit.com/r/unrealengine/comments/ymmlb3/ue5_getting_weird_shadow_artifacts_from_custom/)
 - [Light is much to bright after migration of a level](https://forums.unrealengine.com/t/light-is-much-to-bright-after-migration-of-a-level/788096/1)
 - [Flickering bright spots on textures in-editor](https://forums.unrealengine.com/t/flickering-bright-spots-on-textures-in-editor/1158234)
+- [How to set collision of big monster with skeleton mesh](https://forums.unrealengine.com/t/how-to-set-collision-of-big-monster-with-skeleton-mesh/393650)
+- [Light flickering on meshes - using nothing but emissive textures](https://forums.unrealengine.com/t/light-flickering-on-meshes-using-nothing-but-emissive-textures/743452/1)
+- [How to reduce size of physics asset capsules?](https://forums.unrealengine.com/t/how-to-reduce-size-of-physics-asset-capsules/482143)
 
 <br>
 <br>
