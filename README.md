@@ -42,6 +42,9 @@
 <br>
 
 - [Pipeline (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/theory/pipeline)
+
+<br>
+
 - [A Few Common Scifi Mistakes - Quick Ways to Improve](https://www.youtube.com/watch?v=AkYnoaSB5xw)
 - [HOUDINI FAQ/courses and tutorials](http://hipnc.club/houdini-faq/)
 
@@ -103,16 +106,18 @@
 - [UE5 Starter Course 2022 by Unreal Sensei](https://youtu.be/k-zMkzmduqI)
 - [UE5 Starter Course 2023 by Unreal Sensei - машинный перевод](https://www.youtube.com/watch?v=oPM51zg4XHU)
 - [Cinematic Renders in UE5 by pinkpocketTV](https://youtu.be/GHFq4Dj7sVs)
-- [How to Make a Custom Decal With a Texture in Unreal Engine 5](https://www.youtube.com/watch?v=acbbuGUM2fo)
+
+##### BLUEPRINT AND NODES
+- [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
+- [Top-down template tutorial (camera rotation + zoom + WASD)](https://www.youtube.com/watch?v=c3Eh9bZnMVs)
 - [Fog material](https://www.youtube.com/watch?v=NL6aMamsc7E)
+- [How to Make a Custom Decal With a Texture in Unreal Engine 5](https://www.youtube.com/watch?v=acbbuGUM2fo)
+
+##### PROBLEM FIX
 - [How do I disable all unused plugins](https://forums.unrealengine.com/t/how-do-i-disable-all-unused-plugins-if-i-am-not-sure-which-one-are-in-use/628737/4)
 - [How to correctly rename Your Projects](https://www.youtube.com/watch?v=qGn1SfX6s9I)
 - [How to downgrade Unreal Engine assets](https://1danielcoelho.github.io/downgrade-unreal-asset/)
 - [How to downgrade Unreal Engine assets (git)](https://github.com/1danielcoelho/1danielcoelho.github.io/issues/3)
-
-##### BLUEPRINT
-- [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
-- [Top-down template tutorial (camera rotation + zoom + WASD)](https://www.youtube.com/watch?v=c3Eh9bZnMVs)
 
 <br>
 <br>
