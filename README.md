@@ -66,6 +66,11 @@
 - [Texel Density and other bits of texture theory](https://www.artstation.com/marketplace/p/nVn7/texel-density-and-other-bits-of-texture-theory?utm_source=artstation&utm_medium=referral&utm_campaign=homepage&utm_term=marketplace)
 - [Пиксельные отступы в текстурной развертке](https://habr.com/ru/companies/plarium/articles/451794/)
 - [TEXEL DENSITY by TIMOTHY DRIES](https://www.beyondextent.com/deep-dives/deepdive-texeldensity#:~:text=One%20way%20of%20calculating%20texel,screen%20to%20your%20texture%20size.)
+- <br>
+- [Felyx McGarry Trim Sheets youtube](https://www.youtube.com/watch?v=KX6CWEvlmJ4)
+- [Felyx McGarry Trim Sheets artstantion](https://www.artstation.com/felyxmcgarry/blog)
+- [SINGLE MATERIAL MODULAR KIT Q&A](https://www.exp-points.com/vuk-single-material-modular-kit-environment-ue4)
+- [KING ARTHUR - GRANDIOSE KING’S CHAMBER](https://www.exp-points.com/king-arthur-grandiose-kings-chamber)
 
 ##### BAKE
 - [Всё про Bake (запечку) как этап ААА-пайплайна](https://dtf.ru/gamedev/96898-vse-pro-bake-zapechku-kak-etap-aaa-payplayna)
@@ -118,6 +123,10 @@
 - [Fog material](https://www.youtube.com/watch?v=NL6aMamsc7E)
 - [How to Make a Custom Decal With a Texture in Unreal Engine 5](https://www.youtube.com/watch?v=acbbuGUM2fo)
 - [Spider! "Step by Step" Procedural Animation](https://www.youtube.com/watch?v=vKiqs_h1WXM)
+- [Blend two textures using noise](https://forums.unrealengine.com/t/blend-two-textures-using-noise/1190778/2)
+- [CREATE AN AUTO ALIGN TEXTURE](https://www.youtube.com/watch?v=fRsjgWgaMXY)
+- [CREATE AN AUTO ALIGN TEXTURE v2](https://www.youtube.com/watch?v=ketSy5zRdKo)
+- [Scale Textures](https://www.youtube.com/watch?v=PDHT_yRXKd4)
 
 ##### PROBLEM FIX
 - [How do I disable all unused plugins](https://forums.unrealengine.com/t/how-do-i-disable-all-unused-plugins-if-i-am-not-sure-which-one-are-in-use/628737/4)
