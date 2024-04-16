@@ -118,15 +118,17 @@
 - [Blender Export FBX with Textures to Unreal Engine 5 or Unity](https://www.youtube.com/watch?v=KtPYTaCcCNU)
 
 ##### BLUEPRINT AND NODES
-- [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
 - [Top-down template tutorial (camera rotation + zoom + WASD)](https://www.youtube.com/watch?v=c3Eh9bZnMVs)
-- [Fog material](https://www.youtube.com/watch?v=NL6aMamsc7E)
 - [How to Make a Custom Decal With a Texture in Unreal Engine 5](https://www.youtube.com/watch?v=acbbuGUM2fo)
 - [Spider! "Step by Step" Procedural Animation](https://www.youtube.com/watch?v=vKiqs_h1WXM)
+<br>
+- [Manipulating Unreal Engine UVs (Rotate, Scale, Translate, Tile & Mix All These)](https://www.youtube.com/watch?v=oxXPt67YYfg)
+- [Fog material](https://www.youtube.com/watch?v=NL6aMamsc7E)
 - [Blend two textures using noise](https://forums.unrealengine.com/t/blend-two-textures-using-noise/1190778/2)
 - [CREATE AN AUTO ALIGN TEXTURE](https://www.youtube.com/watch?v=fRsjgWgaMXY)
 - [CREATE AN AUTO ALIGN TEXTURE v2](https://www.youtube.com/watch?v=ketSy5zRdKo)
 - [Scale Textures](https://www.youtube.com/watch?v=PDHT_yRXKd4)
+- [HOW TO CREATE PROCEDURAL EDGE WEAR IN UNREAL ENGINE 5 FROM JUST A STATIC MESH](https://umbra.ai/how-to-create-procedural-edge-wear-in-unreal-engine-5-from-just-a-static-mesh/#)
 
 ##### PROBLEM FIX
 - [How do I disable all unused plugins](https://forums.unrealengine.com/t/how-do-i-disable-all-unused-plugins-if-i-am-not-sure-which-one-are-in-use/628737/4)
