@@ -121,6 +121,7 @@
 - [Top-down template tutorial (camera rotation + zoom + WASD)](https://www.youtube.com/watch?v=c3Eh9bZnMVs)
 - [How to Make a Custom Decal With a Texture in Unreal Engine 5](https://www.youtube.com/watch?v=acbbuGUM2fo)
 - [Spider! "Step by Step" Procedural Animation](https://www.youtube.com/watch?v=vKiqs_h1WXM)
+- [How to Create Fire in UE5](https://www.youtube.com/watch?v=VZuBqScz-JY)
   
 <br>
 
