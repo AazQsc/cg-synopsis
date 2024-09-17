@@ -33,6 +33,9 @@
 - [UV Toolkit](https://alexbel.gumroad.com/l/NbMya)
 - [UV Toolkit (docs)](https://alexbelyakov.gitlab.io/uv-toolkit-docs/)
 - [UV Packer - Fast. Accurate. Free.](https://www.uv-packer.com/blender/)
+- [UVPackmaster 3 PRO](https://glukoz.gumroad.com/l/uvpackmaster3)
+- [PlantFactory Youtube DEMO](https://www.youtube.com/watch?v=LBSl_PMEBS8)
+- [PlantFactory ](https://www.bentley.com/software/e-on-software-free-downloads/)
 
 <br>
 <br>
