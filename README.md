@@ -4,6 +4,7 @@
 - [Tips (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/triks)
 - [Трещины - Cell Fracture](https://youtu.be/OSSzPpLUO1Q)
 - [How to render certain edges?](https://blender.stackexchange.com/questions/95097/how-to-render-certain-edges)
+- [Blender Mountain Tutorial - Create Beautiful Mountains in 2 minutes](https://www.youtube.com/watch?v=MW8-SecLwS4)
 ##### GEOMETRY NODES
 - [Examples](https://github.com/AazQsc/cg-synopsis/blob/main/blender/nodes/Examples.md)
 - [How can I instantiate a procedural node group with different parameters?](https://blender.stackexchange.com/questions/274485/how-can-i-instantiate-a-procedural-node-group-with-different-parameters)
@@ -35,7 +36,7 @@
 - [UV Packer - Fast. Accurate. Free.](https://www.uv-packer.com/blender/)
 - [UVPackmaster 3 PRO](https://glukoz.gumroad.com/l/uvpackmaster3)
 - [PlantFactory Youtube DEMO](https://www.youtube.com/watch?v=LBSl_PMEBS8)
-- [PlantFactory ](https://www.bentley.com/software/e-on-software-free-downloads/)
+- [PlantFactory](https://www.bentley.com/software/e-on-software-free-downloads/)
 
 <br>
 <br>
