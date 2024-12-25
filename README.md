@@ -1,3 +1,21 @@
+![](https://github.com/AazQsc/cg-synopsis/blob/main/creature.jpg)
+- [Pipeline (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/theory/pipeline)
+##### TEXTURING
+- [Creature texturing (RUS)](https://www.youtube.com/watch?v=UMWD7lWRIA8)
+- [How to Make HANDPAINTED Creature SKIN TEXTURES in SUBSTANCE PAINTER](https://www.youtube.com/watch?v=Lwep-faQVI0)
+##### STREAM'S
+- [Designing, Sculpting and Texturing Creatures for VFX -- with Ben Erdt and Sam Alicea](https://www.youtube.com/watch?v=bFy9x9R4YNY)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+<br>
+<br>
+<br>
+
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/blender.jpg)
 - [Hot key's and Tools controls (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/hot-keys)
 - [How to fix it? (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/blender/noteshowtofixit)
@@ -45,10 +63,6 @@
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/theory.jpg)
 - [The Book of Shaders (The best info about shaders)](https://thebookofshaders.com/)
 - [How Light Works & Types of Shadows by Carlos Lemos](https://80.lv/articles/tutorial-how-light-works-types-of-shadows/)
-
-<br>
-
-- [Pipeline (notes)](https://github.com/AazQsc/cg-synopsis/blob/main/theory/pipeline)
 
 <br>
 
@@ -179,6 +193,7 @@
 <br>
 
 ![](https://github.com/AazQsc/cg-synopsis/blob/main/3dplaces.jpg)
+- [UV map](https://uvchecker.vinzi.xyz/)
 - [Zbrush. Alpha for sculpting](https://pixologic.com/zbrush/downloadcenter/alpha/#prettyPhoto)
 - [Blendermarket](https://blendermarket.com/)
 - [Poly Haven - materials data](https://polyhaven.com/)
