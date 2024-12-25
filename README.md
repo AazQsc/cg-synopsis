@@ -3,14 +3,10 @@
 ##### TEXTURING
 - [Creature texturing (RUS)](https://www.youtube.com/watch?v=UMWD7lWRIA8)
 - [How to Make HANDPAINTED Creature SKIN TEXTURES in SUBSTANCE PAINTER](https://www.youtube.com/watch?v=Lwep-faQVI0)
+- [Creature Texturing in Substance Painter (Part 4 of Demon series)](https://www.youtube.com/watch?v=25r30-CUkik)
+- [Текстурирование персонажа. База.](https://youtu.be/aRagUT6_o74?si=Y9yGVHNenafjjbEs)
 ##### STREAM'S
 - [Designing, Sculpting and Texturing Creatures for VFX -- with Ben Erdt and Sam Alicea](https://www.youtube.com/watch?v=bFy9x9R4YNY)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
 
 <br>
 <br>
@@ -30,6 +26,7 @@
 - [How to apply Geometry Nodes with UV maps?](https://blender.stackexchange.com/questions/228241/how-to-apply-geometry-nodes-with-uv-maps)
 ##### SCULPTING
 - [Meshes pushed other side when sculpting](https://blender.stackexchange.com/questions/203658/meshes-pushed-other-side-when-sculpting)
+- [28 Tips to BOOST Sculpting in Blender](https://www.youtube.com/watch?v=QMyLLQwsubw)
 ##### UV
 - [Продвинутая UV-развёртка и текстурные атласы](https://www.youtube.com/watch?v=gQZU48UtYpg)
 ##### BAKE
